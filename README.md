@@ -4,8 +4,10 @@
 
 ### [Vision-LSTM: xLSTM as Generic Vision Backbone](https://arxiv.org/abs/2406.04303)  
 
-![image](https://github.com/jiaowoguanren0615/Vision-LSTM/blob/main/sample_png/ViL-configs.jpg)  
-![image](https://github.com/jiaowoguanren0615/Vision-LSTM/blob/main/sample_png/Compare-otherNets.jpg)  
+<p align="center">
+  <img src="https://github.com/jiaowoguanren0615/Vision-LSTM/blob/main/sample_png/ViL-configs.jpg" width="400" style="display: inline-block;" />
+  <img src="https://github.com/jiaowoguanren0615/Vision-LSTM/blob/main/sample_png/Compare-otherNets.jpg" width="400" style="display: inline-block;" />
+</p>
 
 
 ## Preparation
