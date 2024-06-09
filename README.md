@@ -1,6 +1,6 @@
 <h1 align='center'>Vision-LSTM</h1>
 
-<p align='center'>[Vision-LSTM: xLSTM as Generic Vision Backbone](https://arxiv.org/abs/2406.04303)</p>
+## ***[Vision-LSTM: xLSTM as Generic Vision Backbone](https://arxiv.org/abs/2406.04303)***
   
 ### This is a warehouse for Vision-LSTM-Pytorch-model, can be used to train your image-datasets for vision tasks.
 
